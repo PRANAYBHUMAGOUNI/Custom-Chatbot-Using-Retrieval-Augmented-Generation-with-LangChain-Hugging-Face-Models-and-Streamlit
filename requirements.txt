@@ -1,0 +1,9 @@
+langchain>=0.0.273
+langchain-core>=0.0.208
+langchain-community>=0.0.34
+huggingface_hub>=0.18.0
+transformers>=4.33.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+streamlit>=1.25.0
