@@ -1,4 +1,4 @@
-# Custom-Chatbot-Using-Retrieval-Augmented-Generation-with-LangChain-Hugging-Face-Models-and-Streamlit
+# Custom-Chatbot-Using-RAG-with-LangChain-Hugging-Face-Model-and-Streamlit
 
 This project implements a custom chatbot using Retrieval Augmented Generation (RAG) with LangChain, HuggingFace Transformers, FAISS vector store, and Streamlit. The chatbot leverages a local language model to answer user queries based on provided documents.
 
